@@ -26,8 +26,8 @@ data = sheet.get_all_records()
 # TEXTBEE CONFIG
 # ---------------------------
 
-API_KEY = "4e53f925-81ad-40b3-896d-f8b29ae2ff30"
-DEVICE_ID = "*********************"
+API_KEY = " "
+DEVICE_ID = " "
 
 TEXTBEE_URL = f"https://api.textbee.dev/api/v1/gateway/devices/{DEVICE_ID}/send-sms"
 
